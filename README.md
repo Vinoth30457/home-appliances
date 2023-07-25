@@ -4,8 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Live links
 
-GitHub- [click here]()
-Live URL- [click here]()
+GitHub- [click here](https://github.com/Vinoth30457/home-appliances.git)
+Live URL- [click here](https://tourmaline-duckanoo-24d589.netlify.app)
 
 ## Available Scripts
 
